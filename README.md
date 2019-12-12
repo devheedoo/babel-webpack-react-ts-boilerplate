@@ -35,13 +35,13 @@ $ yarn start
 $ git clone https://github.com/devheedoo/babel-webpack-react-ts-boilerplate.git
 ```
 
-### 2. Initialize with yarn
+### 2. Initialize with Yarn
 
 ```bash
 $ yarn init -y
 ```
 
-### 3. Add dependencies with yarn: Babel, Webpack and React
+### 3. Add dependencies: Babel, Webpack and React
 
 ```bash
 $ yarn add -D react react-dom
@@ -50,7 +50,7 @@ $ yarn add -D babel-loader @babel/cli @babel/core @babel/plugin-proposal-class-p
 $ yarn add @babel/polyfill
 ```
 
-### 4. Add dependencies with yarn: TypeScript
+### 4. Add dependencies: TypeScript
 
 ```bash
 $ yarn add -D typescript @babel/preset-typescript source-map-loader
