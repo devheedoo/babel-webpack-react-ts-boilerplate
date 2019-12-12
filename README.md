@@ -30,7 +30,10 @@ $ yarn start
 
 
 ### 1. Cloning empty repository from GitHub
-git clone https://github.com/devheedoo/babel-webpack-react-ts-boilerplate.git
+
+```bash
+$ git clone https://github.com/devheedoo/babel-webpack-react-ts-boilerplate.git
+```
 
 ### 2. Initialize with yarn
 
