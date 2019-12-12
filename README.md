@@ -68,7 +68,19 @@ $ yarn add -D @types/react @types/react-dom @types/webpack-env
 - src/components/App.tsx
 - src/index.tsx
 
-### 7. Clean up...
+### 7. Add scripts
+- package.json
+
+```json
+{
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack -w"
+  },
+}
+```
+
+### 8. Clean up...
 - .gitignore
 - README.md
 
